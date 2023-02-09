@@ -4,7 +4,7 @@ import { getPolls, getUser, isWallectConnected } from './Blockchain.services'
 import { ToastContainer } from 'react-toastify'
 import CreatePoll from './components/CreatePoll'
 import DeletePoll from './components/DeletePoll'
-import Footer from './components/Footer'
+
 import Header from './components/Header'
 import Register from './components/Register'
 import UpdatePoll from './components/UpdatePoll'
@@ -83,7 +83,7 @@ const App = () => {
         <DeletePoll />
         <CreatePoll />
         <UpdatePoll />
-        <Footer />
+     
       </WagmiConfig>
 
       <Web3Modal
