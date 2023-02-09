@@ -48,7 +48,6 @@ Questions about running the demo? [Open an issue](https://github.com/Daltonic/bl
 
 ## Useful links
 
-- 🏠 [Website](https://daltonic.github.io/)
 - ⚽ [Metamask](https://metamask.io/)
 - 🚀 [Remix Editor](https://remix.ethereum.org/)
 - 💡 [Hardhat](https://hardhat.org/)
@@ -56,5 +55,5 @@ Questions about running the demo? [Open an issue](https://github.com/Daltonic/bl
 - 🔥 [ReactJs](https://reactjs.org/)
 - 🐻 [Solidity](https://soliditylang.org/)
 - 👀 [Ethersjs](https://docs.ethers.io/v5/)
-- 🎅 [CometChat](https://try.cometchat.com/daltonic)
-- ✨ [Live Demo](https://gameshop-af682.web.app/)
+
+
